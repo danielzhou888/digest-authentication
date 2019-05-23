@@ -1,7 +1,7 @@
 
 [TOC]
 
-The tools supports PUT、POST、DELETE、GET methods to digest anthentication;
+The tools supports PUT、POST、DELETE、GET methods to digest anthentication; </br>
 You can get result info by json or xml data with switch type;
 
 #### 什么是摘要认证
